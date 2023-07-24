@@ -9,5 +9,3 @@
 📚  I’m looking to collaborate on Web application development , Mobile Application Development
 
 📫 Reach me at muditha41@gmail.com
-
-Let's code something awesome together! 💡
